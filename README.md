@@ -4,7 +4,6 @@
 **vme50ty/vme50ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vme50ty)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=vme50ty&count_private=true&show_icons=true&theme=buefy&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vme50ty&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
