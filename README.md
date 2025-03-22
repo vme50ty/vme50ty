@@ -1,5 +1,7 @@
 ## Hi there 👋
-Nice to meet you.I am a student at Beijing University of Posts and Telecommunications. 
+Nice to meet you.
+
+I am a student at Beijing University of Posts and Telecommunications. 
 
 Welcome to my homepage!
 <!--
